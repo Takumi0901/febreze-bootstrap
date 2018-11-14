@@ -1,0 +1,22 @@
+{
+  "name": "febreze-bootstrap",
+  "version": "1.0.0",
+  "description": "febreze-bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takumi0901/febreze-bootstrap.git"
+  },
+  "author": "102design <juventus0901@gmail.com> (https://takumi0901.github.io/nimbus/index.html)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Takumi0901/febreze-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Takumi0901/febreze-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
