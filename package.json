@@ -4,7 +4,9 @@
   "description": "febreze-bootstrap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css",
+    "build:prod": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css --output-style compressed",
+    "start": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css -w"
   },
   "repository": {
     "type": "git",
