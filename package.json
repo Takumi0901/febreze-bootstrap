@@ -4,9 +4,9 @@
   "description": "febreze-bootstrap",
   "main": "index.js",
   "scripts": {
-    "build": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css",
-    "build:prod": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css --output-style compressed",
-    "start": "node-sass ./scss/bootstrap.scss ./dist/fabrese-bootstrap.css -w"
+    "build": "node-sass ./scss/bootstrap.scss ./dist/febrese-bootstrap.css",
+    "build:prod": "node-sass ./scss/bootstrap.scss ./dist/febrese-bootstrap.css --output-style compressed",
+    "start": "node-sass ./scss/bootstrap.scss ./dist/febrese-bootstrap.css -w"
   },
   "repository": {
     "type": "git",

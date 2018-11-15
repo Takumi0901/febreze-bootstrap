@@ -6,11 +6,13 @@
  */
 
 @import "functions";
-@import "variables";
+//@import "variables";
+@import "febreze/variables";
 @import "mixins";
 @import "root";
 @import "reboot";
-@import "type";
+//@import "type";
+@import "febreze/type";
 @import "images";
 @import "code";
 @import "grid";
