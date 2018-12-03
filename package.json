@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/Takumi0901/febreze-bootstrap/issues"
   },
-  "homepage": "https://github.com/Takumi0901/febreze-bootstrap#readme",
-  "dependencies": {
-    "bootstrap": "^4.1.3"
-  }
+  "homepage": "https://github.com/Takumi0901/febreze-bootstrap#readme"
 }
