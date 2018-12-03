@@ -4,9 +4,9 @@
   "description": "febreze-bootstrap",
   "main": "index.js",
   "scripts": {
-    "build": "node-sass ./scss/bootstrap.scss ./dist/febreze-bootstrap.css",
-    "build:prod": "node-sass ./scss/bootstrap.scss ./dist/febreze-bootstrap.css --output-style compressed",
-    "start": "node-sass ./scss/bootstrap.scss ./dist/febreze-bootstrap.css -w"
+    "build": "node-sass ./scss/febreze-bootstrap.scss ./dist/febreze-bootstrap.css",
+    "build:prod": "node-sass ./scss/febreze-bootstrap.scss ./dist/febreze-bootstrap.css --output-style compressed",
+    "start": "node-sass ./scss/febreze-bootstrap.scss ./dist/febreze-bootstrap.css -w"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Takumi0901/febreze-bootstrap/issues"
   },
-  "homepage": "https://github.com/Takumi0901/febreze-bootstrap#readme"
+  "homepage": "https://github.com/Takumi0901/febreze-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
